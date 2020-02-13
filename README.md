@@ -1,8 +1,10 @@
-# Title: ;l;sndf 
+# Title: README Generator 
 ## Instructions 
-;ks;jhdfasdd;jkjk 
+just run the code via command line 
 ## Usage 
-sadkkjfhasdd;fkjk 
+follow prompts to create readme 
 ## Contributors 
-]asdlkdjfadskfj 
-![userimg](https://avatars0.githubusercontent.com/u/56312145?v=4)
+just me  
+
+
+ ![userimg](https://avatars0.githubusercontent.com/u/56312145?v=4)
